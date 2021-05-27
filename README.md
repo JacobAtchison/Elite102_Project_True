@@ -1,3 +1,3 @@
 # This is jacob's personal elite 102 proejct repo
 
-Hello world
+you need to have mySQL installed for it to run properly
