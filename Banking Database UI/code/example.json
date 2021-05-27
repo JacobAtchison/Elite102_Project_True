@@ -1,0 +1,16 @@
+{
+    "json_acct_objs": [
+
+        {"acct_num": 10000, "name": "Space", "pin":1000, "balance": 0.00 },
+
+        {"acct_num": 65054, "name": "Eric", "pin":1234, "balance": 1000.00 },
+
+        {"acct_num": 77834,"name": "Jacob", "pin":5678, "balance": 9999.99 },
+
+        {"acct_num": 58245,"name": "John", "pin":4658, "balance": 4356435645.43 },
+
+        {"acct_num": 87402,"name": "Bob", "pin":5678, "balance": 99.99 }
+
+    ]
+
+}
